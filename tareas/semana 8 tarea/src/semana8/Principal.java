@@ -1,11 +1,10 @@
-package lab;
+package semana8;
 
 public class Principal {
 
 	public static void main(String[] args) {
-		Laboratario a = new Laboratario ();
-		a.Lab();
-		
+	Laboratorios ap = new Laboratorios ();
+	ap.lab();
 	}
 
 }
